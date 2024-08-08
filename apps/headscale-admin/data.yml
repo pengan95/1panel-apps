@@ -1,0 +1,20 @@
+name: Headscale-Admin
+tags:
+    - 工具
+title: Headscale 现代化管理界面
+type: 工具
+description:  Headscale 现代化管理界面
+additionalProperties:
+    key: headscale-admin
+    name: Headscale-Admin
+    tags:
+        - Tool
+    shortDescZh: Headscale 现代化管理界面
+    shortDescEn: Headscale 现代化管理界面
+    type: tool
+    crossVersionUpdate: true
+    limit: 0
+    recommend: 0
+    website: https://github.com/GoodiesHQ/headscale-admin
+    github: https://github.com/GoodiesHQ/headscale-admin
+    document:https://github.com/GoodiesHQ/headscale-admin
